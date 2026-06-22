@@ -1,0 +1,6 @@
+{
+  "name": "Automated University Exam Scheduling System",
+  "description": "An intelligent exam timetable generator using graph coloring algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
